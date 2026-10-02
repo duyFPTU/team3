@@ -8,11 +8,5 @@ Members:
 - Member 3 Ngô Minh Quang
 
 
-## Practice
-
-Name: Duy Doan - local change
-
-Name: Duy Doan - Remote Conflict Resolved
-
-
-This is my second Git commit.
+Name: Luc Nguyen
+Role: Git Practice Member
