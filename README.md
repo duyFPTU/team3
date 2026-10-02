@@ -15,3 +15,8 @@ Role: Git Practice Member
 ## Practice
 
 This is my second Git commit.
+
+## Duy's Git Practice
+
+Branch: duy
+Member: Duy Doan
