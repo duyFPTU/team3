@@ -7,16 +7,6 @@ Members:
 - Member 2 Nguyễn Văn Lực
 - Member 3 Ngô Minh Quang
 
-## Member
-
-Name: Duy Doan
-<<<<<<< HEAD
-=======
-Role: Git Practice Member
--Xử lí Conflict
-Name: Duy Doan - MAIN
->>>>>>> 26985bed3315f3cd0314e57cbb9f5124cea27a13
-Role: Git Practice Member
 
 ## Practice
 
