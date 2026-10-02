@@ -7,7 +7,6 @@ Members:
 - Member 2 Nguyễn Văn Lực
 - Member 3 Ngô Minh Quang
 
-## Member
 
 Name: Luc Nguyen
 Role: Git Practice Member
