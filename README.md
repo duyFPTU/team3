@@ -9,5 +9,5 @@ Members:
 
 ## Member
 
-Name: Duy Doan
+Name: Luc Nguyen
 Role: Git Practice Member
