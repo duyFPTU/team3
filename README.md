@@ -9,5 +9,6 @@ Members:
 
 
 ## Practice
+Name: Duy Doan - Main
 
 This is my second Git commit.
