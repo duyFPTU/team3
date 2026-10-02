@@ -11,3 +11,4 @@ Members:
 
 Name: Duy Doan
 Role: Git Practice Member
+-Xử lí Conflict
