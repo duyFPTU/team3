@@ -12,3 +12,9 @@ Members:
 Name: Duy Doan
 Role: Git Practice Member
 -Xử lí Conflict
+Name: Duy Doan - MAIN
+Role: Git Practice Member
+
+## Practice
+
+This is my second Git commit.
