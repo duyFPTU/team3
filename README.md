@@ -7,6 +7,8 @@ Members:
 - Member 2 Nguyễn Văn Lực
 - Member 3 Ngô Minh Quang
 
-
-Name: Luc Nguyen
+## Member
+Name: Duy Doan
 Role: Git Practice Member
+Name: Luc Nguyen
+Role: Git Practice Member - Resolve conflict
