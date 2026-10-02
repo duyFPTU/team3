@@ -9,7 +9,7 @@ Members:
 
 ## Member
 
-Name: Duy Doan
+Name: Duy Doan - MAIN
 Role: Git Practice Member
 
 ## Practice
