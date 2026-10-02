@@ -8,15 +8,7 @@ Members:
 - Member 3 Ngô Minh Quang
 
 ## Member
-
-Name: Duy Doan - Duy
+Name: Duy Doan
 Role: Git Practice Member
-
-## Practice
-
-This is my second Git commit.
-
-## Duy's Git Practice
-
-Branch: duy
-Member: Duy Doan
+Name: Luc Nguyen
+Role: Git Practice Member - Resolve conflict
