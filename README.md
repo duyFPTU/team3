@@ -9,6 +9,6 @@ Members:
 
 
 ## Practice
-Name: Duy Doan - Main
+Name: Duy Doan - local change
 
 This is my second Git commit.
