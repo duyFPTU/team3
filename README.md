@@ -9,6 +9,10 @@ Members:
 
 
 ## Practice
+
 Name: Duy Doan - local change
+
+Name: Duy Doan - Remote Conflict Resolved
+
 
 This is my second Git commit.
