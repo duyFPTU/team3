@@ -11,3 +11,7 @@ Members:
 
 Name: Duy Doan
 Role: Git Practice Member
+
+## Practice
+
+This is my second Git commit.
