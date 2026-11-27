@@ -1,14 +1,9 @@
-# Git Practice
+# Quản lý thư viện
 
-This is our group Git practice project.
+Khung ban đầu để các thành viên clone về và phát triển trên nhánh riêng.
 
-Members:
-- Member 1 Đoàn Phương Duy
-- Member 2 Nguyễn Văn Lực
-- Member 3 Ngô Minh Quang
+- `client/` — giao diện.
+- `server/` — backend.
+- `database/` — nơi nhóm sẽ thêm thiết kế cơ sở dữ liệu.
 
-## Member
-Name: Duy Doan
-Role: Git Practice Member
-Name: Luc Nguyen
-Role: Git Practice Member - Resolve conflict
+Xem [đề bài gốc](MOCK_PROJECT_REQUIREMENTS.md) trước khi nhận phần việc.
